@@ -1,8 +1,8 @@
 import React, {Fragment, useContext } from 'react'
 import {PhoneContext} from '../context/context'
 import { Link } from 'react-router-dom'
-import Success from '../../data/gif/31615154-9c8c4886-b280-11e7-828d-2f64e4250c53.gif'
-import Error from '../../data/gif/Error.gif'
+import Success from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/gif/31615154-9c8c4886-b280-11e7-828d-2f64e4250c53.gif'
+import Error from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/gif/Error.gif'
 
 const Modal = () => {
 

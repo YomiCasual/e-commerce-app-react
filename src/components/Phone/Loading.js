@@ -1,5 +1,5 @@
 import React from 'react';
-import LoadingGif from '../../data/gif/loading-arrow.gif'
+import LoadingGif from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/gif/loading-arrow.gif'
 
 const Loading = () => {
     return (

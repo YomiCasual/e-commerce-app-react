@@ -2,14 +2,14 @@
 https://www.iconfinder.com/icons/1243689/call_phone_icon
 Creative Commons (Attribution 3.0 Unported);
 https://www.iconfinder.com/Makoto_msk */
-import product1 from './img/product-1.png';
-import product2 from './img/product-2.png'
-import product3 from './img/product-3.png'
-import product4 from './img/product-4.png'
-import product5 from './img/product-5.png'
-import product6 from './img/product-1.png'
-import product7 from './img/product-7.png'
-import product8 from './img/product-8.png'
+import product1 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png';
+import product2 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-2.png'
+import product3 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-3.png'
+import product4 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-4.png'
+import product5 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-5.png'
+import product6 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png'
+import product7 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-7.png'
+import product8 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-8.png'
 
 
 
