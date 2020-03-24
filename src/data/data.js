@@ -1,26 +1,8 @@
-import product1 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png';
-
-import product2 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-2.png';
-
-import product3 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-3.png';
-
-import product4 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-4.png';
-
-import product5 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-5.png';
-
-import product6 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png';
-
-import product7 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-7.png';
-
-import product8 from 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-8.png'
-
-
-
 export const storeProducts = [
   {
     id: 1,
     title: "Google Pixel - Black",
-    img: product1,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png',
     price: 10,
     company: "GOOGLE",
     info:
@@ -32,7 +14,7 @@ export const storeProducts = [
   {
     id: 2,
     title: "Samsung S7",
-    img: product2,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-2.png',
     price: 16,
     company: "SAMSUNG",
     info:
@@ -44,7 +26,7 @@ export const storeProducts = [
   {
     id: 3,
     title: "HTC 10 - Black",
-    img: product3,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-3.png',
     price: 8,
     company: "htc",
     info:
@@ -56,7 +38,7 @@ export const storeProducts = [
   {
     id: 4,
     title: "HTC 10 - White",
-    img: product4,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-4.png',
     price: 18,
     company: "htc",
     info:
@@ -68,7 +50,7 @@ export const storeProducts = [
   {
     id: 5,
     title: "HTC Desire 626s",
-    img: product5,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-5.png',
     price: 24,
     company: "htc",
     info:
@@ -80,7 +62,7 @@ export const storeProducts = [
   {
     id: 6,
     title: "Vintage Iphone",
-    img: product6,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-1.png',
     price: 17,
     company: "apple",
     info:
@@ -92,7 +74,7 @@ export const storeProducts = [
   {
     id: 7,
     title: "Iphone 7",
-    img: product7,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-7.png',
     price: 30,
     company: "apple",
     info:
@@ -104,7 +86,7 @@ export const storeProducts = [
   {
     id: 8,
     title: "Smashed Iphone",
-    img: product8,
+    img: 'https://cdn.jsdelivr.net/gh/YomiCasual/e-commerce-app-react@master/src/data/img/product-8.png',
     price: 2,
     company: "apple",
     info:
